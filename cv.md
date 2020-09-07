@@ -6,7 +6,7 @@
 
 - e-mail.: christi_k@mail.ru
 
-My **goal** is to get required knowledge and start a career as a Junior Front-End Developer. I am interested in this profession because it is dynamic and rapidly developing. This is a great opportunity to learn something new and interact with intelligent people. I have no experience as a programmer but I`m a fast-learner, well-organized and responsible worker. Positive, polite, cheerful and stubborn in achieving the final result.
+My **goal** is to get required knowledge and start a career as a Junior Front-End Developer. I am interested in this profession because it is dynamic and rapidly developing. This is a great opportunity to learn something new and interact with intelligent people.
 
 I have basic skills in working with programming technologies such as:
 

@@ -1,0 +1,25 @@
+* {
+    background: url("src/bg2.jpg") no-repeat;
+    background-size: cover;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1024px;
+    padding: 10px;
+}
+
+header {
+    text-align: center;
+}
+
+img {
+    width: 200px;
+}
+
+.contacts{
+    max-width: 50%;
+    float: left;
+    margin-left: 22%;
+    margin-top: 3%;
+}
